@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shop</title>
+</head>
+<body>
+    {% for t in results %}
+        <div style="float: left">
+            <p>{{ t.phoneNum }}</p><br>
+            <p>{{ t.phonePrice }}</p><br>
+            <p>{{ t.phoneLink }}</p><br>
+            <p>{{ t.phoneRoePrice }}</p>
+        </div>
+    {% endfor %}
+</body>
+</html>

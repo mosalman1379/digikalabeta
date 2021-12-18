@@ -1,0 +1,9 @@
+ma dar in tamrin amadim dar file model ba tavajoh be mavared mored niaz field ha ra ijad kardim
+dar model phoneInfo etelat mored niaz ra ijad kardim va baray ijad history az yek model digar be nam
+phoneHistory estefadeh kardim be in soorat ke dar model aval yek key kharegi be model dovem zadim to badan betavani
+az tarigh relative relation be anha dastresi peyda konim
+dar file view ma tabe getData ra estefadeh mikonim baray gereftan etelaat az site digikala ke az request va
+Beatifulsoup estefadeh kardim va bar asas sanad Html safhe mad nazar etelat ra kasb kardim , anha ra return kardim
+dar tabe getInfo ham meghdar barghshti ra be sanad Html pas midahim ta dar anja namayesh dahim
+file url baray tanzim kardan nahve dastresi be request mored nazar ijad shode ast
+dat file settings ham dar ghesmat installed_apps ma app phones ra ezafe kardim
